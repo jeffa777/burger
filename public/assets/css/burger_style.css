@@ -1,0 +1,22 @@
+body {
+	background-image: url(https://images.pexels.com/photos/2089717/pexels-photo-2089717.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+	background-color: linen;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	overflow: auto;
+	background-attachment: fixed;
+	color: rgb(252, 156, 11);
+}
+
+h1 {
+	margin-bottom: 100px;
+	color: rgb(17, 164, 223);
+	text-align: center;
+}
+
+.change-devoured {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
